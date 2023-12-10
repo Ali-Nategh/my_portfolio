@@ -88,6 +88,8 @@ const Contact = () => {
               </ul>
             </form>
           </div>
+          <br />
+          <p>&nbsp;</p>
         </div>
       </div>
       <Loader type="pacman" />

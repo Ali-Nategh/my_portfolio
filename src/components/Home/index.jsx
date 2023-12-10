@@ -65,6 +65,12 @@ const Home = () => {
           <Link to="/about" className="flat-button">
             ABOUT ME
           </Link>
+          <br />
+          <p>&nbsp;</p>
+          <br />
+          <p>&nbsp;</p>
+          <br />
+          <p>&nbsp;</p>
         </div>
         <Logo />
       </div>
