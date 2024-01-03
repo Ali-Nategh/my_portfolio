@@ -52,8 +52,8 @@ const About = () => {
             Development, and I have also worked with C# in Unity.
           </p>
           <p>
-            I am span <span>proficient in English</span>, and Persian, know a
-            bit of French, and have{' '}
+            I am <span>proficient in English</span>, and Persian, know a bit of
+            French, and have{' '}
             <span>excellent verbal and written communication skills</span>. I am
             eager to learn more, improve my skills, and contribute to innovative
             and impactful projects.
@@ -78,8 +78,8 @@ const About = () => {
             </a>
             .
           </h2>
-          <Link to="/contact" className="flat-button">
-            CONTACT ME
+          <Link to="/work" className="flat-button">
+            MY WORK
           </Link>
           <br />
           <p>&nbsp;</p>
